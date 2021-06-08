@@ -1,0 +1,119 @@
+
+    h1,h2{
+        color : rebeccapurple
+      } 
+     
+    .header *
+    {
+        margin: 10mm;
+    background-color: turquoise;
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+}
+        
+.description{
+    margin: 0px;
+    text-align: center;
+    background-color: burlywood;
+}
+
+
+    .item
+    {
+            background-color: rgb(16, 233, 233);
+        
+    }
+
+    .item2
+    {
+            background-color: hotpink
+
+    }
+
+    .item3
+    {
+            background-color: orangered
+
+    }
+
+    .item4
+    {
+            background-color: burlywood
+
+    }
+
+    .item5
+    {
+           
+            background-color:greenyellow
+            
+
+    }
+    .menu
+    {
+        border: 8px solid red;
+        background-color: blueviolet;
+        display:flex;
+        flex-wrap : wrap;
+        justify-content: space-between;
+        
+    
+       
+        
+    
+    }
+
+    .footer
+    {
+        
+        display:flex;
+        justify-content: flex-end;
+    
+    }
+
+    p
+    {
+        color: darkgoldenrod;
+        text-align: center;
+    }
+
+      
+
+    .img1
+    {
+        border: 8px solid black;
+        
+        
+    }
+
+
+    .img2
+    {
+        border: 8px solid black;
+       
+        
+    }
+
+
+    .img3
+    {
+        border: 8px solid black;
+       
+        
+    }
+
+
+    .img4
+    {
+        border: 8px solid black;
+       
+        
+    }
+
+    .img5
+    {
+        border: 8px solid black;
+       
+        
+    }
